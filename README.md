@@ -1,15 +1,19 @@
-For anyone interested in:
+@Semon06
+
+Our services:
 
 IPTV solutions (O11pro + scripts) for all regions with long-term support.
 
-High-quality L1 keyboxes/CDMs/Wvds.
+High-quality Whitelisted L1 Wvds for pywidevine.
 
-Brand New SL3000 Playready Certificates/Prds.
+High-quality SL3000/SL2000 Playready Prds for pyplayready.
 
-Netflix 4K Solution (Script + Keys + Database + MGK esns + whitlisted L1s).
+Fairplay streaming drm solution.
 
-MA 4K Solution (Script + Keys + Database).
+Netflix 4K Solution.
+
+MA 4K Solution.
 
 Contact me on Telegram at @Semon06 for any further questions.
 
-Payment methods are limited to Cryptocurrency (USDT, USDC, and BTC)
+Payment methods are limited to Cryptocurrency (USDT, USDC, and BTC).
