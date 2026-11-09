@@ -2,13 +2,13 @@
 
 Our services:
 
+Fairplay streaming drm solution.
+
 IPTV solutions (O11pro + scripts) for all regions with long-term support.
 
 High-quality Whitelisted L1 Wvds for pywidevine.
 
 High-quality SL3000/SL2000 Playready Prds for pyplayready.
-
-Fairplay streaming drm solution.
 
 Netflix 4K Solution.
 
